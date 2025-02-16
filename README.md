@@ -202,6 +202,8 @@ _Credits include the following_:
 - Project Contributors
 - Singers whose songs are in the You May Like directory.
 
+**Please note**: Incase your name is missing from the credits, please create an [issue](https://github.com/KendallDoesCoding/mogul-christmas/issues), listing the PR with your contribution which was merged, and your name will be added. 
+
 # Contributors
 Thanks to all our contributors for their active support and participation!
 
