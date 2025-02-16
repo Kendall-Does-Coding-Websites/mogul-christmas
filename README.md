@@ -29,13 +29,14 @@ On the 18th of December 2021, I was bored, so I created this basic HTML Project.
 ## Check it out here
 The project website is hosted [here](https://kendalldoescoding.tech/mogulchristmas)!
 
-Backup URL: [Backup Domain](https://mogulchristmas.netlify.app)
+Backup URL: [Backup Domain](https://mogulchristmas.netlify.app) 
+
 
 Make sure you check it out.
 
 # Build Status
 
-You can view the versions & previews [here](https://mogulchristmas.kendalldoescoding.gq/versionsandpreviews)
+You can view the versions & previews [here](https://github.com/KendallDoesCoding/mogul-christmas/wiki/Versions-&-Previews)
 
 **Please Note: This only has 25 releases, at the time of writing this (21st September 2022, 6:29pm IST) there are 87 more releases not added to this list.**
 
